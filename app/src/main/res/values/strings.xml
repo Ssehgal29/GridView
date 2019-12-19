@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StaticGridView</string>
+
+    <string-array name="jadu">
+        <item>Alpha</item>
+        <item>Beta</item>
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Ecliers</item>
+
+    </string-array>
+</resources>
